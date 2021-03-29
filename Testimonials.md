@@ -1,5 +1,5 @@
 ## Overview
-I am making this course material available in part so that I have something to add to my teaching portfolio. Accordingly, I have decided to add a few pieces of student feedback below. This feedback was collected as part of UC San Diego's CAPES; this is the university's way of collecting student feedback on courses and instructors at the end of the term. 
+I am making this course material available in part so that I have something to add to my teaching portfolio. Accordingly, I have decided to add a few pieces of student feedback below. This feedback was collected as part of UC San Diego's CAPES; this is the university's way of collecting student feedback on courses and instructors at the end of the term. In total I had 54 students complete this survey anonymously. 
 
 ## Notes:
 Any remarks on student feedback would not be complete without mentioning the following information: 
@@ -7,12 +7,12 @@ Any remarks on student feedback would not be complete without mentioning the fol
 -  The class was taught in my native tongue (English). This also *positively biases* my evaluations. See, for instance, [The Influence of Instructor Native Language on Student Learning and Instructor Ratings](https://www.jstor.org/stable/40326049?seq=1#metadata_info_tab_contents)
 -  The class grades were *quite high* (88% of a student's grade in this class was based on homework, participation, and the final project; most students did the work, and their grades reflected that). The relationships of this with student evaluations is discussed here: [Do Higher Grades Lead to Favorable Student Evaluations?](https://www.jstor.org/stable/30042630?seq=1#metadata_info_tab_contents)
 
-I do think that there are concrete things that I did which led to the overall positive response to this class; I spent long hours preparing for most of the lectures, I encouraged and incorporated student feedback, I was responsive on the course chatroom, etc. But again, to ignore the listed facts would not be painting the full picture. 
+I do think that there are concrete things that I did which led to the overall positive response to this class: I spent long hours preparing for most of the lectures and included participation checks to promote engagement and active learning; I encouraged and incorporated student feedback; I was responsive on the course chatroom. But again, to ignore the listed facts would not be painting the full picture. 
 
 Finally, there is always the question of whether or not I am cherry picking to select only the favorable reviews. I have attached the complete report in the Logistics/capes.pdf file for full disclosure.
 
 ## Multiple Choice Feedback Questions:
-The course material is intellecturally stimulating:
+The course material is intellectually stimulating:
 - Strongly Disagree: 0 (0.0%)
 - Disagree: 0 (0.0%)
 - Neither Agree nor Disagree: 0 (0.0%)
