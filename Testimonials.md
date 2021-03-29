@@ -63,7 +63,7 @@ the class feel more inviting to someone who may be confused about how everything
 The course material is intellectually stimulating:
 - Strongly Disagree: 0 (0.0%)
 - Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 0 (0.0%)
+- Neither Agree nor Disagree: 2 (4.0%)
 - Agree: 20 (40.0%)
 - Strongly Agree: 27 (54.0%)
 - Not Applicable: 1 (2.0%)
@@ -90,7 +90,7 @@ Instructor explains the course material well:
 Instructor shows concern for students' learning: 
 - Strongly Disagree: 0 (0.0%)
 - Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 2 (3.8%)
+- Neither Agree nor Disagree: 1 (1.9%)
 - Agree: 19 (35.2%)
 - Strongly Agree: 33 (61.1%)
 - Not Applicable: 1 (1.9%)
