@@ -11,52 +11,6 @@ I do think that there are concrete things that I did which led to the overall po
 
 Finally, there is always the question of whether or not I am cherry picking to select only the favorable reviews. I have attached the complete report in the Logistics/capes.pdf file for full disclosure.
 
-## Multiple Choice Feedback Questions:
-The course material is intellectually stimulating:
-- Strongly Disagree: 0 (0.0%)
-- Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 0 (0.0%)
-- Agree: 20 (40.0%)
-- Strongly Agree: 27 (54.0%)
-- Not Applicable: 1 (2.0%)
-- No Response: 4
-
-The assignments promote learning: 
-- Strongly Disagree: 0 (0.0%)
-- Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 2 (3.8%)
-- Agree: 15 (28.3%)
-- Strongly Agree: 35 (66.0%)
-- Not Applicable: 1 (1.9%)
-- No Response: 1
-
-Instructor explains the course material well:
-- Strongly Disagree: 0 (0.0%)
-- Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 2 (3.7%)
-- Agree: 13 (24.1%)
-- Strongly Agree: 39 (72.2%)
-- Not Applicable: 0 (0.0%)
-- No Response: 0
-
-Instructor shows concern for students' learning: 
-- Strongly Disagree: 0 (0.0%)
-- Disagree: 0 (0.0%)
-- Neither Agree nor Disagree: 2 (3.8%)
-- Agree: 19 (35.2%)
-- Strongly Agree: 33 (61.1%)
-- Not Applicable: 1 (1.9%)
-- No Response: 0
-
-Do you recommend this course overall?
-- Yes: 54 (100.0%)
-- No: 0 (0.0%)
-
-Do you recommend this professor overall?
-- Yes: 54 (100.0%)
-- No: 0 (0.0%)
-
-
 ## General Student Feedback on the Course:
 "Such a cool class to take, I can't believe I had never considered it before. I learned a little about
 a lot of things and it was really fun! Coding is typically not very intuitive for me but I feel a lot
@@ -104,3 +58,49 @@ have such an understanding professor of how the students learn and feel."
 we were going to learn by being enthusiastic and interested in what he was talking about. He
 connected mostly everything that seemed abstract to something real and concrete and it made
 the class feel more inviting to someone who may be confused about how everything works."
+
+## Multiple Choice Feedback Questions:
+The course material is intellectually stimulating:
+- Strongly Disagree: 0 (0.0%)
+- Disagree: 0 (0.0%)
+- Neither Agree nor Disagree: 0 (0.0%)
+- Agree: 20 (40.0%)
+- Strongly Agree: 27 (54.0%)
+- Not Applicable: 1 (2.0%)
+- No Response: 4
+
+The assignments promote learning: 
+- Strongly Disagree: 0 (0.0%)
+- Disagree: 0 (0.0%)
+- Neither Agree nor Disagree: 2 (3.8%)
+- Agree: 15 (28.3%)
+- Strongly Agree: 35 (66.0%)
+- Not Applicable: 1 (1.9%)
+- No Response: 1
+
+Instructor explains the course material well:
+- Strongly Disagree: 0 (0.0%)
+- Disagree: 0 (0.0%)
+- Neither Agree nor Disagree: 2 (3.7%)
+- Agree: 13 (24.1%)
+- Strongly Agree: 39 (72.2%)
+- Not Applicable: 0 (0.0%)
+- No Response: 0
+
+Instructor shows concern for students' learning: 
+- Strongly Disagree: 0 (0.0%)
+- Disagree: 0 (0.0%)
+- Neither Agree nor Disagree: 2 (3.8%)
+- Agree: 19 (35.2%)
+- Strongly Agree: 33 (61.1%)
+- Not Applicable: 1 (1.9%)
+- No Response: 0
+
+Do you recommend this course overall?
+- Yes: 54 (100.0%)
+- No: 0 (0.0%)
+
+Do you recommend this professor overall?
+- Yes: 54 (100.0%)
+- No: 0 (0.0%)
+
