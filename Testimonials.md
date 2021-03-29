@@ -1,4 +1,4 @@
-## Overview
+## Overview:
 I am making this course material available in part so that I have something to add to my teaching portfolio. Accordingly, I have decided to add a few pieces of student feedback below. This feedback was collected as part of UC San Diego's CAPES; this is the university's way of collecting student feedback on courses and instructors at the end of the term. In total I had 54 students complete this survey anonymously. 
 
 ## Notes:
