@@ -7,7 +7,8 @@ Math 157 is a course that has been taught at UCSD for the past 5 or so years. Wh
 ### Repository Setup
 
 This repository is organized as follows:
-- Main directory: Contains README.md, licensing information, and pointers to subdirectories.
+- Main directory: Contains README.md, licensing information, testimonials, and pointers to subdirectories.
+- Logistics directory: Contains several files regarding logistical information regarding the class, such as the syllabus and certain technical specs
 - Lectures directory: Contains 25 subdirectories, one for each lecture in the class. Each subdirectory contains a Jupyter Notebook as well as various ancillary files
 - Assignments directory: Contains 8 subdirectories, one for each homework assignment in the class. Each subdirectory contains a Jupyter Notebook of the *blank* homework assignment and ancillary files (I have made a conscious decision to *not* upload solutions; these are accessible if you email me)
 - Quizzes directory: Contains 4 subdirectories. Two subdirectories contain files for *practice quizzes* and two subdirectories contain files for *actual quizzes* which were held in the class
